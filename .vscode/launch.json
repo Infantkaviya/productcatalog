@@ -7,7 +7,7 @@
             "cwd": "${workspaceFolder}",
             "mainClass": "com.example.productcatalog.ProductcatalogApplication",
             "projectName": "productcatalog",
-            "args": "",
+            "args": "  ",
             "envFile": "${workspaceFolder}/.env"
         }
     ]
